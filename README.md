@@ -21,9 +21,7 @@
 </div>
 
 ---
-:man_technologist: 
-
-About Me:
+:man_technologist: About Me:
 I am a Java Developer from Russia.
 - I’m working as a Software Engineer and contributing to backend for building applications.
 
@@ -59,3 +57,5 @@ I am a Java Developer from Russia.
 ### :fire: My Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=timmaxx&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=timmaxx&locale=en)](https://git.io/streak-stats)
