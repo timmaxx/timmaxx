@@ -60,4 +60,8 @@ I am a Java Developer from Russia.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=timmaxx&locale=en)](https://git.io/streak-stats)
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timmaxx)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timmaxx&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
