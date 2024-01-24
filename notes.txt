@@ -1,0 +1,4 @@
+От компании Code review "Как оформить профиль на GitHub":
+https://yourcodereview.notion.site/yourcodereview/GitHub-29b8c4ec64d14dda8860f701d7410309
+
+Первичное наполнение README.md будет сделано по этой методике.
