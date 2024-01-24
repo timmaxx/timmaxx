@@ -17,3 +17,17 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt=""/>
   </h1>
 </div>
+
+---
+:man_technologist: 
+
+About Me:
+I am a Java Developer from Russia.
+- I’m working as a Software Engineer and contributing to backend for building applications.
+
+- Exploring Technical Content Writing.
+
+- In my free time, I solve problems on Leetcode, Codewars and read tech articles.
+
+- How to reach me: [![Telegram Badge](https://img.shields.io/badge/-timmax-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/tmntmntmn)
+---
