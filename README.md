@@ -15,25 +15,21 @@
 -->
   <img src="https://komarev.com/ghpvc/?username=timmaxx&style=flat-square&color=blue" alt=""/>
   <h1>
-    Hi, I'm TimMax
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt=""/>
+    Hi, I'm TimMax!
   </h1>
 </div>
 
 ---
-:man_technologist: About Me:
+About Me:
 I am a Java Developer.
 - I’m working as a Software Engineer and contributing to backend for building applications.
-
 - Exploring Technical Content Writing.
-
 - In my free time, I solve problems on Leetcode, Codewars and read tech articles.
-
 - How to reach me: [![Telegram Badge](https://img.shields.io/badge/-timmax-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/tmntmntmn)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools:
+### Languages and Tools:
 <!--
 1. Добавить:
 1.1. Java
@@ -63,7 +59,7 @@ I am a Java Developer.
 
 ---
 
-### :fire: My Stats:
+### My Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=timmaxx&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
 
